@@ -34,15 +34,15 @@
 }
 
 .header__title {
-  width: 730px;
-  margin-left: 64px;
+  max-width: 730px;
+  margin: 0 0 0 64px;
   font-size: 102px;
   line-height: 96px;
   z-index: 3;
 }
 
 .header__subtitle {
-  width: 388px;
+  max-width: 388px;
   font-size: 18px;
   line-height: 25px;
   position: absolute;
@@ -166,13 +166,13 @@
 
 /* -------------------- Feynman -------------------- */
 .feynman {
-  min-height: 790px;
+  min-height: 890px;
   background: #f2f2f2 url(../images/feynman.png) bottom left no-repeat;
   position: relative;
 }
 
 .feynman__title {
-  width: 648px;
+  max-width: 648px;
   line-height: 1.15;
   font-size: 120px;
   margin: 0 auto 70px;
@@ -244,6 +244,7 @@
 .footer {
   background: #1f1f1f;
   min-height: 350px;
+  display: flex;
 }
 
 .logo_place_footer {
@@ -261,7 +262,6 @@
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 711px;
-  min-height: 250px;
 }
 
 .footer__columns {
@@ -270,7 +270,7 @@
   justify-content: space-between;
   width: 90%;
   padding-top: 60px;
-  margin: 0 auto;
+  margin: 0 auto 40px;
 }
 
 .footer__column-heading {
@@ -284,7 +284,7 @@
 }
 
 .footer__column-links {
-  margin: 0;
+  margin: 0 0 16px 0;
   padding: 0;
 }
 
