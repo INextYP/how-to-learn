@@ -1,9 +1,9 @@
-.card__item {
+.cards__item {
     width: 240px;
     margin-right: 100px;
     text-align: center;
   }
   
-  .card__item:nth-child(3) {
+  .cards__item:nth-child(3) {
     margin: 0;
   }
