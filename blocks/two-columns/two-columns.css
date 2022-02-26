@@ -1,0 +1,10 @@
+.two-columns {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px auto;
+  }
+
+  .two-columns:last-child {
+    margin-bottom: 0;
+  }
