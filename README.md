@@ -1,8 +1,8 @@
-<p align="center">
-  
+<h1 align="center">
 # Проект: "Научиться учиться"
+</h1>  
 ------
-</p>
+
 
 ## Описание:
 * [Ссылка на Gihub Pages](https://inextyp.github.io/how-to-learn/)
