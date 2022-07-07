@@ -1,9 +1,13 @@
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 # Проектная работа: "Научиться учиться"
 ------
 ## Описание:
 ------
 * [Ссылка на Gihub Pages](https://inextyp.github.io/how-to-learn/)
-Проект описывает, какие современные и эффективные подходы к обучению вы можете использовать в своей жизни.
+* Проект описывает, какие современные и эффективные подходы к обучению вы можете использовать в своей жизни.
+
 ### Для создания проекта применялись следующие технологии/стандарты:
 1. GIT.
 2. Flexbox.
